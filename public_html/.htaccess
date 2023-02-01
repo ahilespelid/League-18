@@ -1,0 +1,21 @@
+AddDefaultCharset utf-8 
+# Запускаем движок замены 
+RewriteEngine on 
+# Если запрашиваемый объект не папка 
+RewriteCond %{REQUEST_FILENAME} !-d 
+# если запрашиваемый объект с дописанным расширением php - файл 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+# делаем замену с дописыванием .php 
+RewriteRule ^(.*)$ $1.php 
+
+<IfModule mod_php7.c> 
+php_value error_reporting 0 
+</IfModule> 
+
+Options -Indexes 
+
+# php — BEGIN cPanel-generated handler, do not edit 
+# Сделайте пакет «ea-php56» языком программирования «PHP» по умолчанию. 
+
+# php — END cPanel-generated handler, do not edit
+

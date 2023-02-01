@@ -1,0 +1,81 @@
+.em{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 2em;
+	vertical-align: middle;
+	width: 2em;
+}
+.em-bob{
+	background-image: url("../img/em/bob.png");
+}
+.em-babyrage{
+	background-image: url("../img/em/babyrage.png");
+}
+.em-residentsleeper{
+	background-image: url("../img/em/residentsleeper.png");
+}
+.em-lol{
+	background-image: url("../img/em/lol.png");
+}
+.em-blessrng{
+	background-image: url("../img/em/blessrng.png");
+}
+.em-pogchamp{
+	background-image: url("../img/em/pogchamp.png");
+}
+.em-takenrg{
+	background-image: url("../img/em/takenrg.png");
+}
+.em-dansgame{
+	background-image: url("../img/em/dansgame.png");
+}
+.em-brokeback{
+	background-image: url("../img/em/brokeback.png");
+}
+.em-bibletump{
+	background-image: url("../img/em/bibletump.png");
+}
+.em-kappa{
+	background-image: url("../img/em/kappa.png");
+}
+.em-squirtle{
+	background-image: url("../img/em/squirtle.png");
+}
+.em-psy{
+	background-image: url("../img/em/psy.png");
+}
+.em-snorl{
+	background-image: url("../img/em/snorl.png");
+}
+.em-vulp{
+	background-image: url("../img/em/vulp.png");
+}
+.em-slow{
+	background-image: url("../img/em/slow.png");
+}
+.em-pika{
+	background-image: url("../img/em/pika.png");
+}
+.em-wabaffet{
+	background-image: url("../img/em/waba.png");
+}
+.em-elehm{
+	background-image: url("../img/em/elehm.png");
+}
+.em-gotit{
+	background-image: url("../img/em/gotit.png");
+}
+.em-kiss{
+	background-image: url("../img/em/kiss.png");
+}
+.em-ok{
+	background-image: url("../img/em/ok.png");
+}
+.em-pikahello{
+	background-image: url("../img/em/pikahello.png");
+}
+.em-omg{
+	background-image: url("../img/em/OMG.png");
+}
